@@ -1,4 +1,4 @@
-public class app {
+public class primitive {
     public static void main(String[] args) {
 
         int myage = 30;
