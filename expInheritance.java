@@ -1,5 +1,5 @@
-// This is the main class where the program starts
-public class expVehicle {
+// This is an example of Inheritance
+public class expInheritance {
     public static void main(String[] args) {
         // Creating an instance of the Car class
         Car car = new Car();
