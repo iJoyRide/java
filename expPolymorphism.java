@@ -1,4 +1,4 @@
-public class expAnimal {
+public class expPolymorphism {
     public static void main(String[] args) {
         Animals myAnimal = new Animals();
         myAnimal.eat();
