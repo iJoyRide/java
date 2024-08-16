@@ -1,3 +1,5 @@
+package codeAcademy;
+
 import java.util.Arrays;
 
 public class expArray2D {

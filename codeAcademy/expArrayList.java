@@ -1,3 +1,4 @@
+package codeAcademy;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -8,7 +9,7 @@ public class expArrayList {
         String[] friendArrays = {"John", "Cena", "Eric", "Luke"};
 
         //Dynamically grow or string
-        ArrayList<String> friendArrayList = new ArrayList<>(Arrays.asList("John", "Cena", "Eric", "Luke")); //Can only hold wrapper not primitive
+        ArrayList<String> friendArrayList = new ArrayList<>(Arrays.asList("John", "Cena", "Eric", "Luke")); //Can only hold wrapper not codeAcademy.primitive
 
         System.out.println(friendArrays[1]);
         System.out.println(friendArrays.length);

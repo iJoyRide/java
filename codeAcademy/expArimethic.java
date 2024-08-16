@@ -1,3 +1,5 @@
+package codeAcademy;
+
 public class expArimethic {
     public static void main(String[] args) {
 

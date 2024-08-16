@@ -1,15 +1,17 @@
+package codeAcademy;
+
 // Main class to demonstrate generics
 public class expGenerics {
     public static void main(String[] args) {
-        // Creating an IntegerPrinter instance to print an Integer
+        // Creating an codeAcademy.IntegerPrinter instance to print an Integer
         IntegerPrinter printer = new IntegerPrinter(23);
         printer.print();
 
-        // Creating a Printer instance to print a String
+        // Creating a codeAcademy.Printer instance to print a String
         Printer<String> printer1 = new Printer<>("Hello World");
         printer1.print();
 
-        // Creating a Printer instance to print a Double
+        // Creating a codeAcademy.Printer instance to print a Double
         Printer<Double> printer2 = new Printer<>(55.67);
         printer2.print();
     }

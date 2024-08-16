@@ -1,3 +1,5 @@
+package codeAcademy;
+
 public class expString {
     public static void main(String[] args) {
         String message = "Hello World" + "!!";
